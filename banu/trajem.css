@@ -1,0 +1,22 @@
+*{
+    width: 0px;
+    height: 0px;
+}
+
+.todos{
+    background-color: rgb(0, 200, 15);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20%;
+}
+
+.topo{
+    width: 300px;
+    height: 297px;
+}
+
+.interior{
+    display: inline-block;
+    margin: 0px 16px;
+}
